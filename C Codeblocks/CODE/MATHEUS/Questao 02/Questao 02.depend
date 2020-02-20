@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1556298957 source:c:\users\matheus\desktop\code\matheus\questao 02\main.c
+	<string.h>
+	<stdlib.h>
+	<conio.h>
+	<math.h>
+	<stdio.h>
+
+1558563506 source:c:\users\fiberlink\desktop\code\matheus\questao 02\main.c
+	<string.h>
+	<stdlib.h>
+	<conio.h>
+	<math.h>
+	<stdio.h>
+

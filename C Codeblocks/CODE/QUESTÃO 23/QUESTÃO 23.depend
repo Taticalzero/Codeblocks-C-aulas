@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1558826390 source:c:\users\fiberlink\desktop\professores\code\quest√o 23\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

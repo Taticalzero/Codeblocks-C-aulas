@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1558826818 source:c:\users\fiberlink\desktop\professores\code\calculo do salario + inss\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<math.h>
+
+1558826818 source:c:\users\fiberlink\google drive\professores\code\calculo do salario + inss\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<math.h>
+

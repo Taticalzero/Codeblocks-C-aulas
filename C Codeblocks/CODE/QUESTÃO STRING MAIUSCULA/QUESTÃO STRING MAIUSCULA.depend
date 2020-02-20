@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1558966722 source:c:\users\fiberlink\desktop\professores\code\quest√o string maiuscula\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

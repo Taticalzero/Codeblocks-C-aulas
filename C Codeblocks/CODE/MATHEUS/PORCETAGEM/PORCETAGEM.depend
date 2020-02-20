@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1557070227 source:c:\users\matheus\desktop\code\matheus\porcetagem\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<math.h>
+	<string.h>
+
+1558563508 source:c:\users\fiberlink\desktop\code\matheus\porcetagem\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<math.h>
+	<string.h>
+

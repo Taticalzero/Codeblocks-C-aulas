@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1556550771 source:c:\users\matheus\desktop\code\matheus\quest√o 05\main.c
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+
